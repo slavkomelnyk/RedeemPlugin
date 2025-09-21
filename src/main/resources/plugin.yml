@@ -1,0 +1,10 @@
+name: RedeemPlugin
+version: 1.0
+main: com.example.myPlugin.MyPlugin
+commands:
+  redeem:
+    description: Redeem a reward code
+    usage: /redeem <code>
+  generatecode:
+    description: Generate a new redeem code
+    usage: /generatecode
