@@ -17,7 +17,7 @@ Players can use special codes to receive money via the Vault economy system.
 ## 🔧 Installation
 
 1. Make sure your server has **Vault** and an economy plugin (e.g. EssentialsX).
-2. Download the plugin JAR.
+2. Download the plugin JAR from [releases](https://github.com/slavkomelnyk/RedeemPlugin/releases).
 3. Place the JAR file in your server's `plugins/` folder
 4. Start or reload your server.
 
